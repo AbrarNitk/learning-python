@@ -7,6 +7,10 @@ element with index element.
 
 ## Bubble Sort
 
+In each pass of the loop we compare the adjacent elements and if left element
+is bigger than the right element, we swap it. This way in each pass of the
+comparison loop bigger element come in the last like a bubble.
+
 ## Insertion Sort
 
 ## Binary Search
